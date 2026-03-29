@@ -14,14 +14,14 @@ Initial "Sprint" tasks / todo list for the coming weeks
   - [ ] Launch micro RDS postgreSQL
   - [ ] Launch S3 bucket
 - [ ] Schema Design
-  - [ ] work out on paper/visualize
+  - [x] work out on paper/visualize
   - [ ] write the SQL DDL for tables
   - [ ] GitHub
-    - [ ] Initialize the repo
-    - [ ] add readme
+    - [x] Initialize the repo
+    - [x] add readme
     - [ ] add DB architecture diagram
 - [ ] Get Data Ready
-  - [ ] Download data from gsheets
+  - [x] Download data from gsheets
   - [ ] Clean data
   - [ ] Try out little db on personal computer
 
