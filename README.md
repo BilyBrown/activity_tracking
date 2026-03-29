@@ -3,6 +3,16 @@ a little playthrough to build up an activity tracking app. This may include gps 
 
 This whole project is a little play thing for me. I want to mess around a bit more with utilizing cloud servies as well as over-nerd-out my activity tracking. I would love to create an app on my phone where I can track gym workouts as well as backcountry ski, mountain bike, and running activities. Maybe even have a mobile app where you can see OpenMaps and your track - and collect GPS data.
 
+**Some AI guidelines / constraints**:
+
+I actually want to learn through this process so let's think up some restraints on AI usage.
+
+- all code will be typed by me (no copy pasting from AI)
+  - I am allowed to use AI to look up documentation/explain documentation
+  - I am allowed to use AI to brainstorm about best practices
+  - It is ok to spend a decent amount of time researching and learning/diving deep into the subject material. The spring timeframes are a suggestion - the main point is to learn and have fun playing with data and code.
+
+My goal is to use AI as a guardrail to bounce ideas off of and to discover new libraries, techniques, and ways of approaching problems. As well as a feature to help me from making too large of mistakes (like sharing private keys, etc.) - I am trying to allow space for small and medium mistakes, because that is ,generally, when I learn best.
 
 ## 2025.03.28
 ### Notes
