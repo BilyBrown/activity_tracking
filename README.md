@@ -10,7 +10,7 @@ Initial "Sprint" tasks / todo list for the coming weeks
 
 #### Week 1: Infrastructure & Data Modelling
 - [ ] Setup
-  - [ ] Create AWS account
+  - [x] Create AWS account
   - [ ] Launch micro RDS postgreSQL
   - [ ] Launch S3 bucket
 - [ ] Schema Design
