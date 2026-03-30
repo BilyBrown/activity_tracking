@@ -5,8 +5,7 @@ This whole project is a little play thing for me. I want to mess around a bit mo
 
 
 ## 2025.03.29
-**Some AI guidelines / constraints**:
-
+### AI Guidelines / Constraints:
 I actually want to learn through this process so let's think up some restraints on AI usage.
 
 - all code will be typed by me (no copy pasting from AI)
@@ -15,6 +14,12 @@ I actually want to learn through this process so let's think up some restraints 
   - It is ok to spend a decent amount of time researching and learning/diving deep into the subject material. The spring timeframes are a suggestion - the main point is to learn and have fun playing with data and code.
 
 My goal is to use AI as a guardrail to bounce ideas off of and to discover new libraries, techniques, and ways of approaching problems. As well as a feature to help me from making too large of mistakes (like sharing private keys, etc.) - I am trying to allow space for small and medium mistakes, because that is ,generally, when I learn best.
+
+### Added
+- helper_function.py
+
+### Edit
+- data cleanup/explore notebook
 
 ## 2025.03.28
 ### Notes
