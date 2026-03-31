@@ -4,6 +4,13 @@ a little playthrough to build up an activity tracking app. This may include gps 
 This whole project is a little play thing for me. I want to mess around a bit more with utilizing cloud servies as well as over-nerd-out my activity tracking. I would love to create an app on my phone where I can track gym workouts as well as backcountry ski, mountain bike, and running activities. Maybe even have a mobile app where you can see OpenMaps and your track - and collect GPS data.
 
 
+## 2025.03.30
+### Update
+- worked on cleaning the google sheet data a little bit
+- I slept like crap last night, so I wasn't expecting to make much progress here.
+- Tomorrow let's start getting the db structure set up and start populating it
+- Maybe look into CalTopo data cleanup and integrate into the db
+
 ## 2025.03.29
 ### AI Guidelines / Constraints:
 I actually want to learn through this process so let's think up some restraints on AI usage.
