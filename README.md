@@ -33,6 +33,7 @@ My goal is to use AI as a guardrail to bounce ideas off of and to discover new l
 Initial "Sprint" tasks / todo list for the coming weeks
 
 #### Week 1: Infrastructure & Data Modelling
+Due Date: 2026.04.05
 - [ ] Setup
   - [x] Create AWS account
   - [ ] Launch micro RDS postgreSQL
@@ -53,6 +54,7 @@ Initial "Sprint" tasks / todo list for the coming weeks
 Successfully connect to your RDS from a local tool (DBeaver, or SQL in python) and upload data to RDS and a photo to S3
 
 #### Week 2: The ETL Pipeline
+Due Date: 2026.04.12
 Initially working off of laptop
 - [ ] GPX Parser
   - [ ] Write a python script to convert CalTopo and OnX gpxs into PostGIS geometries
@@ -70,6 +72,7 @@ Initially working off of laptop
 Bulk loads of tracks, gym workouts, and photos
 
 #### Week 3: Report Application
+Due Date: 2026.04.19
 Create a web-base dashboard/report using streamlit
 - [ ] Connection
   - [ ] connect database to streamlit instance
@@ -83,4 +86,3 @@ A semi-functional local web app where selecting activities updates maps, or upda
 #### Week 4: Mobile App
 Develop a mobile app to handle data ingestion
 TBD
-
