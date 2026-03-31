@@ -39,7 +39,7 @@ Initial "Sprint" tasks / todo list for the coming weeks
     - [ ] add DB architecture diagram
 - [ ] Get Data Ready
   - [x] Download data from gsheets
-  - [ ] Clean data
+  - [x] Clean data
   - [ ] Try out little db on personal computer
 
 **Week 1 Goal**
