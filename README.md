@@ -5,6 +5,19 @@ Activity tracking app (gym, backcountry skiing, mountain biking) backed by AWS R
 
 A pleasure project. I want to mess around a bit more with utilizing cloud servies as well as over-nerd-out my activity tracking. I would love to create an app on my phone where I can track gym workouts as well as backcountry ski, mountain bike, and running activities. Maybe even have a mobile app where you can see OpenMaps and your track - and collect GPS data.
 
+## 2025.06.27
+### Update
+- Transitioned to using uv instead of conda for package management
+- Decided to only store kg instead of both lbs and kg in database
+  - Still need to implement
+
+### Next steps
+- clean up notebook
+  - write out scripts to helper_utils
+  - pair down to essentials
+    - but still show how you worked through
+  - flush out documentation
+- write up clean ingestion pipeline scripts
 
 ## 2025.03.30
 ### Update
