@@ -36,14 +36,14 @@ Initial "Sprint" tasks / todo list for the coming weeks
 
 #### Week 1: Infrastructure & Data Modelling
 Due Date: 2026.04.05
-- [ ] Setup
+- [x] Setup
   - [x] Create AWS account
-  - [ ] Launch micro RDS postgreSQL
-  - [ ] Launch S3 bucket
+  - [x] Launch micro RDS postgreSQL
+  - [x] Launch S3 bucket
 - [ ] Schema Design
   - [x] work out on paper/visualize
-  - [ ] write the SQL DDL for tables
-  - [ ] GitHub
+  - [x] write the SQL DDL for tables
+  - [x] GitHub
     - [x] Initialize the repo
     - [x] add readme
     - [ ] add DB architecture diagram
