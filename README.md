@@ -1,7 +1,9 @@
 # activity_tracking
-a little playthrough to build up an activity tracking app. This may include gps and a mobile app.
+activity_tracking
 
-This whole project is a little play thing for me. I want to mess around a bit more with utilizing cloud servies as well as over-nerd-out my activity tracking. I would love to create an app on my phone where I can track gym workouts as well as backcountry ski, mountain bike, and running activities. Maybe even have a mobile app where you can see OpenMaps and your track - and collect GPS data.
+Activity tracking app (gym, backcountry skiing, mountain biking) backed by AWS RDS PostgreSQL with Bash automation for data sync and terminal dashboards.
+
+A pleasure project. I want to mess around a bit more with utilizing cloud servies as well as over-nerd-out my activity tracking. I would love to create an app on my phone where I can track gym workouts as well as backcountry ski, mountain bike, and running activities. Maybe even have a mobile app where you can see OpenMaps and your track - and collect GPS data.
 
 
 ## 2025.03.30
